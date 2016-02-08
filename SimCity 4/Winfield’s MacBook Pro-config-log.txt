@@ -1,0 +1,196 @@
+Log generated on 1/16/2015, 23:45
+
+Flags
+-----
+hardwareDriver = true
+DXT = true
+fullscreen = true
+MMX = false
+FPU = false
+backingStore = true
+forcedFSAA = false
+
+Strings
+-------
+userName = Winfield Tian
+appName = SimCity™4 Deluxe Edition
+version = 1.1.0
+osVersion = Windows NT 5.1
+computerName = Winfield’s MacBook Pro
+CPU = 
+sglDriverName = DirectX
+sglDriverVersion = 2.0
+driverName = Mac OS
+driverVersion = 0.1.0.0, GUID: 4D414353-0-0-0000-000000000000
+cardName = NVIDIA GeForce GT 750M
+cardVersion = Vendor: 10de, Device: 0fe9, Board: 0000, Chipset: 0000
+cardIdentity = NVIDIA GeForce GT 750M
+soundDriverName = Unknown
+soundCardName = Unknown
+buildType = Release
+
+Numbers
+-------
+cpuSpeed = 2500
+memory = 16384
+freeMemory = 580
+screenWidth = 1440
+screenHeight = 900
+screenBPP = 32
+videoMemory = 2047
+textureMemory = 2047
+textureStages = 2
+bogoFPS = 0
+bogoMPPS = 0
+
+Rules
+-----
+applying Sound
+applying high sound detail
+applying City Detail and Day/Night Settings
+applying City Detail and Day/Night Settings>
+applying high computer power
+  option 9 = 3
+  option 13 = 1
+  option 15 = 3
+applying Texture Quality and Building Variety Settings
+applying Texture Quality and Building Variety Settings>
+applying high memory
+  option 3 = 3
+  option 14 = 3
+applying Variable Speed Automata
+applying default
+  option 10 = 1
+applying Standard hardware
+  option 0 = 1
+  option 1 = 1
+  option 2 = 1
+  option 4 = 0
+  option 5 = 1
+  option 8 = 1
+  option 7 = 1
+  option 6 = 1
+  option 11 = 0
+  option 12 = 0
+applying Standard hardware>
+  option 1 = 2
+applying Standard hardware>>
+  option 0 = 2
+applying Standard hardware>>>
+  option 2 = 2
+applying Standard hardware>>>>
+  option 4 = 1
+applying Standard hardware>>>>>
+  option 11 = 1
+applying Two stages
+applying Lotsa vidmem
+applying Not Slow GeForce
+applying Fast card
+applying Fast card>
+  option 12 = 1
+applying Fast card>>
+  option 1 = 3
+applying Fast card>>>
+  option 0 = 3
+applying Fast card>>>>
+  option 2 = 3
+applying Fast card>>>>>
+  option 4 = 1
+
+Options
+-------
+Visual Effects       current:   3 recommended:   3
+Cars/Sims            current:   3 recommended:   3
+Shadows              current:   3 recommended:   3
+Atmospheric effects  current:   1 recommended:   1
+Water effects        current:   1 recommended:   1
+Software/Hardware    current:   1 recommended:   1
+Cursor               current:   1 recommended:   1
+VariableSpeedAutomata current:   1 recommended:   1
+Translucent UI       current:   1 recommended:   1
+Graphic Detail       current:   3 recommended:   3
+Building Load Speed  current:   3 recommended:   3
+Texture Quality      current:   3 recommended:   3
+
+Properties
+-------
+forcesoftwaredriver = false
+renderdynamicview = true
+renderstaticview = true
+renderwatereffects = true
+rendercloudsandfog = true
+forcepointsampling = false
+forcebilinear = false
+forcenoalphablend = false
+forcenoalphatest = false
+rendershadows = true
+renderdecals = true
+usesecondstage = true
+forcedebugtexture = false
+renderparticleeffects = true
+renderflorashadows = true
+renderterrain = true
+showupdateregions = false
+usecursoreffects = true
+drawlottextures = true
+drawlotfoundations = true
+drawlotwalls = true
+forcetexturerepeat = false
+usescreenshake = true
+renderui = true
+useupdaterectclipping = true
+usevertexbuffers = true
+showboundingboxes = false
+useoverlayculling = true
+rendersnapshot = false
+noaddsigned = false
+nopartialbackingstorecopies = false
+usescreenflash = true
+renderautomata = true
+preferopaque = false
+displayalertborders = true
+drawlotopaquetextures = true
+useviewcleanup = false
+doautozoomandrotationchanges = true
+
+viewoffsety = 0
+viewoffsetx = 0
+texturebits = 32
+lodoffset = 0
+shadowdebug = 0
+maxparticlestarget = 10000
+particlelodoffset = 0
+effectprioritylevel = 5
+backingstoremaxzoomall = 5
+backingstoremaxzoombuildingsprops = 5
+backingstoremaxzoomterrain = 5
+backingstoremaxzoomflora = 5
+shadowquality = 2
+minvehiclezoom = 3
+minpedzoom = 4
+cursortype = 1
+depthoffset = 2
+debugtexture = 0
+dirtyrectmergeframes = 2
+sounddetail = 2
+buildingvariety = 2
+buildingloaderspeed = 1
+modellodoffset = 0
+stringtexturecachesize = 1024
+
+particleeffectslod = 5
+splattexturescale = 50
+texbindmaxfree = 8
+particledensity = 1
+particledamping = 0
+particlescale = 1
+lightingupdatedelta = 0.0001
+shadowmodelthreshold = 12
+demolishmodelthreshold = 12
+rendermodelthreshold = 6
+rendermodelthresholdscroll = 40
+particlesizethreshold = 300
+maxvehiclepct = 1
+maxpedpct = 1
+opaqueuialphavalue = 0.55
+
